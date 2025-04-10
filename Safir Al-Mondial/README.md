@@ -1,4 +1,4 @@
-# Sports Travel Assistant 🏟️✈️
+# SAFIR AL-MODNDIAL ASSISTANT 🏟️✈️
 
 A Saudi Arabia sports tourism helper that provides:
 - Match information lookup
